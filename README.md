@@ -18,3 +18,9 @@ This project analyzes sales data using Excel to identify trends, regional perfor
 
 ## Files
 - sales-data-analysis.xlsx → Full project with data, pivots, and dashboard
+
+## Skills Demonstrated
+- Data Cleaning
+- Data Analysis
+- Data Visualization
+- Business Insight Generation
